@@ -6,4 +6,6 @@
 
 ## 公司列表
 
-- [ADLINK](https://www.adlinktech.com/tw/index) & 法國子公司 [Zettascale](https://www.zettascale.tech/), 使用 Rust 開發 [Eclipse Zenoh 專案](https://github.com/eclipse-zenoh). 
+### 桃園
+
+- [ADLINK](https://www.adlinktech.com/tw/index) - ADLINK & 法國子公司 [Zettascale](https://www.zettascale.tech/), 使用 Rust 開發 [Eclipse Zenoh 專案](https://github.com/eclipse-zenoh). 
